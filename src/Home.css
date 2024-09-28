@@ -1,0 +1,11 @@
+.coursecard-container{
+    background-color: black;
+    color: white;
+    width: 400px;
+    padding: 20px;
+    border: 2px yellowgreen groove;
+}
+
+.coursecard-container h1{
+    font-size: 30px;
+}
